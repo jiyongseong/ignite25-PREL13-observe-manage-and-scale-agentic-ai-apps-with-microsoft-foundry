@@ -131,7 +131,9 @@ After completing this lab, you should see:
 
 Once you've successfully validated your environment, proceed to:
 
-**[Lab 1: Agent Architecture →](../1-agents/)**
+After completing this lab:
+
+**[Lab 1: Agent Architecture →](../1-agents/index.md)**
 
 Build your first agents using Azure AI Agent Service and Microsoft Agent Framework!
 

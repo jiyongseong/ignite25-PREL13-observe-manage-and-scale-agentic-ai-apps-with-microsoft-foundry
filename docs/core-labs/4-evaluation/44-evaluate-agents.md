@@ -33,4 +33,4 @@ Help me measure multi-turn conversation consistency for agents
 ---
 
 [← Previous: Evaluate Safety](43-evaluate-safety.md){ .md-button }
-[Next Lab: Tracing →](../5-tracing/){ .md-button .md-button--primary }
+[Next Lab: Tracing →](../5-tracing/index.md){ .md-button .md-button--primary }

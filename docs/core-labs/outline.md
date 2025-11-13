@@ -38,8 +38,8 @@ This document introduces the key concepts covered in the PREL13 workshop through
 7. [Governance Strategies](#7-governance-strategies)
    - 7.1 [What is AI Governance?](#71-what-is-ai-governance)
    - 7.2 [Key Governance Pillars](#72-key-governance-pillars)
-   - 7.3 [Safety & Responsible AI](#73-safety--responsible-ai)
-   - 7.4 [Zava's Governance Implementation](#74-zavas-governance-implementation)
+   - 7.3 [Safety & Responsible AI](#73-safety-and-responsible-ai)
+   - 7.4 [Zava's Governance Guidance](#74-zavas-governance-guidance)
 
 ---
 
@@ -901,7 +901,7 @@ By the end of this workshop, you'll understand how to observe, manage, and scale
 
 ## Next Steps
 
-Ready to get started? Head to the [Core Labs](../docs/Core-Labs/) to begin building Zava's customer support solution!
+Ready to get started? Head to the [Core Labs](index.md) to begin building Zava's customer support solution!
 
 1. **Setup:** Configure your Azure AI Foundry environment
 2. **Explore Agent:** Interact with the base agent

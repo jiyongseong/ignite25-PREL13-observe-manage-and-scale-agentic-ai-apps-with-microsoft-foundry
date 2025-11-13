@@ -25,7 +25,7 @@ By the end of this lab, you will be able to:
 
 ## Prerequisites
 
-- ✅ Completed [Lab 0: Setup & Validation](../0-setup/)
+- ✅ Completed [Lab 0: Setup & Validation](../0-setup/index.md)
 - ✅ Understanding of the [Zava Scenario](../0-setup/scenario.md)
 - ✅ Azure AI Foundry project with deployed models
 
@@ -76,9 +76,9 @@ What are best practices for managing agent conversation state?
 
 After completing this lab:
 
-**[Lab 2: Model Context →](../2-models/)**
+**[Lab 2: Model Context →](../2-models/index.md)**
 
 ---
 
-[← Previous Lab](../0-setup/){ .md-button }
-[Next Lab →](../2-models/){ .md-button .md-button--primary }
+[← Previous Lab](../0-setup/index.md){ .md-button }
+[Next Lab →](../2-models/index.md){ .md-button .md-button--primary }

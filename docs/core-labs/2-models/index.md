@@ -25,7 +25,7 @@ By the end of this lab, you will be able to:
 
 ## Prerequisites
 
-- ✅ Completed [Lab 1: Agent Architecture](../1-agents/)
+- ✅ Completed [Lab 1: Agent Architecture](../1-agents/index.md)
 - ✅ Access to Azure AI Foundry model catalog
 - ✅ Understanding of prompt engineering basics
 
@@ -68,9 +68,9 @@ Help me evaluate which model is best for my use case based on cost and quality
 
 After completing this lab:
 
-**[Lab 3: Model Customization →](../3-customization/)**
+**[Lab 3: Model Customization →](../3-customization/index.md)**
 
 ---
 
-[← Previous Lab](../1-agents/){ .md-button }
-[Next Lab →](../3-customization/){ .md-button .md-button--primary }
+[← Previous Lab](../1-agents/index.md){ .md-button }
+[Next Lab →](../3-customization/index.md){ .md-button .md-button--primary }

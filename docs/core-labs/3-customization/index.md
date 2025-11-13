@@ -26,7 +26,7 @@ By the end of this lab, you will be able to:
 
 ## Prerequisites
 
-- ✅ Completed [Lab 2: Model Context](../2-models/)
+- ✅ Completed [Lab 2: Model Context](../2-models/index.md)
 - ✅ Training dataset prepared
 - ✅ Understanding of model evaluation metrics
 
@@ -79,9 +79,9 @@ Explain model distillation and how it can reduce costs
 
 After completing this lab:
 
-**[Lab 4: Evaluation Metrics →](../4-evaluation/)**
+**[Lab 4: Evaluation Metrics →](../4-evaluation/index.md)**
 
 ---
 
-[← Previous Lab](../2-models/){ .md-button }
-[Next Lab →](../4-evaluation/){ .md-button .md-button--primary }
+[← Previous Lab](../2-models/index.md){ .md-button }
+[Next Lab →](../4-evaluation/index.md){ .md-button .md-button--primary }

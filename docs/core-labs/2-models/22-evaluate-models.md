@@ -33,4 +33,4 @@ Help me analyze model outputs to choose the best model for my use case
 ---
 
 [← Previous: Simulate Dataset](21-simulate-dataset.md){ .md-button }
-[Next Lab: Model Customization →](../3-customization/){ .md-button .md-button--primary }
+[Next Lab: Customization →](../3-customization/index.md){ .md-button .md-button--primary }

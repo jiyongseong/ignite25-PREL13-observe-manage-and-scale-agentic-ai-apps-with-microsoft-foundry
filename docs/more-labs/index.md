@@ -16,5 +16,5 @@ Join the conversation:
 
 ---
 
-[← Back to Core Labs](../core-labs/){ .md-button }
-[Back to Home →](../){ .md-button .md-button--primary }
+[← Back to Core Labs](../core-labs/index.md){ .md-button }
+[Back to Home →](../index.md){ .md-button .md-button--primary }

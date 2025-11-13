@@ -38,4 +38,4 @@ Help me compare the cost and quality tradeoffs between different model sizes
 ---
 
 [← Previous: Custom Grader](32-custom-grader.md){ .md-button }
-[Next Lab: Evaluation Metrics →](../4-evaluation/){ .md-button .md-button--primary }
+[Next Lab: Evaluation →](../4-evaluation/index.md){ .md-button .md-button--primary }

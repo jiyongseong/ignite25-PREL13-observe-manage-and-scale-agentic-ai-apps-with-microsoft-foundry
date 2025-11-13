@@ -18,7 +18,7 @@ By the end of this lab, you will be able to:
 
 ## Prerequisites
 
-- ✅ Completed [Lab 5: Tracing & Telemetry](../5-tracing/)
+- ✅ Completed [Lab 5: Tracing & Telemetry](../5-tracing/index.md)
 - ✅ Agents tested and evaluated
 - ✅ Production readiness checklist completed
 
@@ -72,9 +72,9 @@ Show me how to analyze production metrics in Azure AI Foundry portal
 
 After completing this lab:
 
-**[Lab 7: Teardown & Cleanup →](../7-teardown/)**
+**[Lab 7: Teardown & Cleanup →](../7-teardown/index.md)**
 
 ---
 
-[← Previous Lab](../5-tracing/){ .md-button }
-[Next Lab →](../7-teardown/){ .md-button .md-button--primary }
+[← Previous Lab](../5-tracing/index.md){ .md-button }
+[Next Lab →](../7-teardown/index.md){ .md-button .md-button--primary }

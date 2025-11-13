@@ -27,7 +27,7 @@ By the end of this lab, you will be able to:
 
 ## Prerequisites
 
-- ✅ Completed [Lab 3: Model Customization](../3-customization/)
+- ✅ Completed [Lab 3: Model Customization](../3-customization/index.md)
 - ✅ Evaluation dataset prepared
 - ✅ Models deployed and accessible
 
@@ -78,9 +78,9 @@ Show me how to evaluate agent performance for multi-turn conversations
 
 After completing this lab:
 
-**[Lab 5: Tracing & Telemetry →](../5-tracing/)**
+**[Lab 5: Tracing & Telemetry →](../5-tracing/index.md)**
 
 ---
 
-[← Previous Lab](../3-customization/){ .md-button }
-[Next Lab →](../5-tracing/){ .md-button .md-button--primary }
+[← Previous Lab](../3-customization/index.md){ .md-button }
+[Next Lab →](../5-tracing/index.md){ .md-button .md-button--primary }

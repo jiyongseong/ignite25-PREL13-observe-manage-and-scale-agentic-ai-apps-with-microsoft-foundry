@@ -132,15 +132,13 @@ Consider keeping for future learning:
 - 📘 [Delete Resource Groups](https://learn.microsoft.com/azure/azure-resource-manager/management/delete-resource-group)
 - 📘 [Azure Resource Manager](https://learn.microsoft.com/azure/azure-resource-manager/management/overview)
 
-## Next Steps
+## What's Next?
 
-**Continue Learning:**
-
-- ⭐ Star the [GitHub Repository](https://github.com/microsoft/ignite25-PDY123-learn-how-to-observe-manage-and-scale-agentic-ai-apps-using-azure)
-- 📚 Explore [More Labs](../../more-labs/) for advanced topics
-- 🎓 Check out [Azure AI Foundry Learning Path](https://learn.microsoft.com/training/paths/create-custom-copilots-ai-studio/)
+- Explore [Additional Labs](../../more-labs/index.md) for advanced topics
+- Review what you learned in the [Core Labs](../6-deployment/index.md)
+- Share your feedback on the [Workshop Homepage](../../index.md)
 
 ---
 
-[← Previous Lab](../6-deployment/){ .md-button }
-[Back to Home →](../../){ .md-button .md-button--primary }
+[← Previous Lab](../6-deployment/index.md){ .md-button }
+[Back to Home →](../../index.md){ .md-button .md-button--primary }

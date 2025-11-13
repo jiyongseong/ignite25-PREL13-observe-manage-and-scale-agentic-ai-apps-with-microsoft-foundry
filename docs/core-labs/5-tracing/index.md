@@ -18,7 +18,7 @@ By the end of this lab, you will be able to:
 
 ## Prerequisites
 
-- ✅ Completed [Lab 4: Evaluation Metrics](../4-evaluation/)
+- ✅ Completed [Lab 4: Evaluation Metrics](../4-evaluation/index.md)
 - ✅ Agents deployed and running
 - ✅ Application Insights resource configured
 
@@ -70,9 +70,9 @@ Show me how to track token usage and costs across agent sessions
 
 After completing this lab:
 
-**[Lab 6: Deployment & Insights →](../6-deployment/)**
+**[Lab 6: Deployment & Insights →](../6-deployment/index.md)**
 
 ---
 
-[← Previous Lab](../4-evaluation/){ .md-button }
-[Next Lab →](../6-deployment/){ .md-button .md-button--primary }
+[← Previous Lab](../4-evaluation/index.md){ .md-button }
+[Next Lab →](../6-deployment/index.md){ .md-button .md-button--primary }

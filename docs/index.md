@@ -43,7 +43,7 @@ Explore additional content at your own pace using your Azure subscription after 
 
 Ready to begin? Start with the setup and validation lab to ensure your environment is configured correctly.
 
-[Begin Setup →](core-labs/0-setup/){ .md-button .md-button--primary }
+[Begin Setup →](core-labs/0-setup/index.md){ .md-button .md-button--primary }
 [View Workshop Outline →](core-labs/outline.md){ .md-button }
 
 ---

@@ -35,4 +35,4 @@ Explain different agent orchestration patterns (sequential, parallel, hierarchic
 ---
 
 [← Previous: Agent Service](11-agent-service.md){ .md-button }
-[Next Lab: Model Context →](../2-models/){ .md-button .md-button--primary }
+[Next Lab: Model Context →](../2-models/index.md){ .md-button .md-button--primary }
