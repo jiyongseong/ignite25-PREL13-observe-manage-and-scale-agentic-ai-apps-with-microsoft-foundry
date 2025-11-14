@@ -22,6 +22,10 @@ By the end of this lab, you will be able to:
 - ✅ Exported any data or artifacts you want to keep
 - ✅ Noted any resources you want to preserve
 
+## Previous Lab
+
+- **[← Lab 6: Deployment](../6-deployment/60-deployment.md)**
+
 ## Important Warnings
 
 !!! danger "Data Loss Warning"
@@ -132,15 +136,8 @@ Consider keeping for future learning:
 - 📘 [Delete Resource Groups](https://learn.microsoft.com/azure/azure-resource-manager/management/delete-resource-group)
 - 📘 [Azure Resource Manager](https://learn.microsoft.com/azure/azure-resource-manager/management/overview)
 
-## Next Steps
+## What's Next?
 
-**Continue Learning:**
-
-- ⭐ Star the [GitHub Repository](https://github.com/microsoft/ignite25-PDY123-learn-how-to-observe-manage-and-scale-agentic-ai-apps-using-azure)
-- 📚 Explore [More Labs](../../more-labs/) for advanced topics
-- 🎓 Check out [Azure AI Foundry Learning Path](https://learn.microsoft.com/training/paths/create-custom-copilots-ai-studio/)
-
----
-
-[← Previous Lab](../6-deployment/){ .md-button }
-[Back to Home →](../../){ .md-button .md-button--primary }
+- Explore [Additional Labs](../../more-labs/index.md) for advanced topics
+- Review what you learned in the [Core Labs](../index.md)
+- Share your feedback on the [Workshop Homepage](../../index.md)
